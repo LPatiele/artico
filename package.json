@@ -1,0 +1,14 @@
+{
+  "name": "artico",
+  "version": "1.0.0",
+  "description": "Teste prático para QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lorraine",
+  "license": "ISC",
+  "dependencies": {
+    "webdriverio": "^8.11.2"
+  }
+}
